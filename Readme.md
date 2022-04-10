@@ -57,12 +57,12 @@ HTML reports are generated in Cypress Project\reports:
 1) Report Dashboard ,it shows the Features and Scenarios which are passed.
 
 
-![Report Dashboard](cypress\screenshots\Report Dashboard.PNG)
+![Report Dashboard](https://github.com/Jagrutivyas/Cypress_Project/blob/main/cypress/screenshots/Report%20Dashboard.PNG)
 
 
 2) To see feature overview click on feature name it wil take to feature overview tab and will show the scenario's passed and failed.
 
-![Report Login Feature](cypress\screenshots\Report Login Page feature.PNG)
+![Report Login Feature](https://github.com/Jagrutivyas/Cypress_Project/blob/main/cypress/screenshots/Report%20Login%20Page%20feature.PNG)
 
 
 
